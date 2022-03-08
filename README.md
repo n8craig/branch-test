@@ -7,4 +7,4 @@ Then I added an image.
 ![Imgur](https://i.imgur.com/jdHCpMn.png)
 
 # This is a heading.
-All of this is accumulating by appending a single commit.
+This text was from a single edit.
