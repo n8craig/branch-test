@@ -1,5 +1,5 @@
-# branch-test
-This repo is about me learning to use branch.
+# Branch test repo
+This temporary test repo is about me learning to use branch.
 
 I wrote some some text and made a commit.
 
