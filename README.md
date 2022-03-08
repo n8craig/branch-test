@@ -12,3 +12,6 @@ Now I'm adding an image.
 
 # Then I add a heading.
 All of this is accumulating by appending a single commit.
+
+# I am adding a second heading
+My plan is to commit and put this and then revert.
