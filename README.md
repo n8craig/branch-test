@@ -24,3 +24,7 @@ It has some more text to it.
 This also has an image from Imgur.
 
 ![Imgur](https://i.imgur.com/Z0Uaacs.png)
+
+# This is a mistaken heading.
+
+I'm going to save and make a commit. Then I am adding more text and appending the commit.
